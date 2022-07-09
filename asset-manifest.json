@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Shivamkumar/static/css/main.2db685a0.chunk.css",
+    "main.js": "/Shivamkumar/static/js/main.012fda4b.chunk.js",
+    "main.js.map": "/Shivamkumar/static/js/main.012fda4b.chunk.js.map",
+    "runtime-main.js": "/Shivamkumar/static/js/runtime-main.725fd81b.js",
+    "runtime-main.js.map": "/Shivamkumar/static/js/runtime-main.725fd81b.js.map",
+    "static/css/2.14351861.chunk.css": "/Shivamkumar/static/css/2.14351861.chunk.css",
+    "static/js/2.7da599ff.chunk.js": "/Shivamkumar/static/js/2.7da599ff.chunk.js",
+    "static/js/2.7da599ff.chunk.js.map": "/Shivamkumar/static/js/2.7da599ff.chunk.js.map",
+    "index.html": "/Shivamkumar/index.html",
+    "precache-manifest.a36fbc6f832ea610ed93d59533f44d9d.js": "/Shivamkumar/precache-manifest.a36fbc6f832ea610ed93d59533f44d9d.js",
+    "service-worker.js": "/Shivamkumar/service-worker.js",
+    "static/css/2.14351861.chunk.css.map": "/Shivamkumar/static/css/2.14351861.chunk.css.map",
+    "static/css/main.2db685a0.chunk.css.map": "/Shivamkumar/static/css/main.2db685a0.chunk.css.map",
+    "static/js/2.7da599ff.chunk.js.LICENSE": "/Shivamkumar/static/js/2.7da599ff.chunk.js.LICENSE",
+    "static/media/Hello.jpg": "/Shivamkumar/static/media/Hello.dc642748.jpg",
+    "static/media/Pencil.jpg": "/Shivamkumar/static/media/Pencil.38828042.jpg",
+    "static/media/laptop1.jpg": "/Shivamkumar/static/media/laptop1.ea39cfa9.jpg",
+    "static/media/sam.jpg": "/Shivamkumar/static/media/sam.4d3c0ac5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.725fd81b.js",
+    "static/css/2.14351861.chunk.css",
+    "static/js/2.7da599ff.chunk.js",
+    "static/css/main.2db685a0.chunk.css",
+    "static/js/main.012fda4b.chunk.js"
+  ]
+}
